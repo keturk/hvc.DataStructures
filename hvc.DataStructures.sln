@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hvc.DataStructures", "hvc.DataStructures.csproj", "{6F87FB7D-EE41-4F50-AFDB-5A50F1A547AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F87FB7D-EE41-4F50-AFDB-5A50F1A547AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F87FB7D-EE41-4F50-AFDB-5A50F1A547AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F87FB7D-EE41-4F50-AFDB-5A50F1A547AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F87FB7D-EE41-4F50-AFDB-5A50F1A547AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9449051-B239-4395-9A37-6F98396DAADE}
+	EndGlobalSection
+EndGlobal
