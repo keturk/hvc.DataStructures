@@ -217,7 +217,7 @@ public abstract class ModelNodeBase : IKeyedObject
         return false;
     }
 
-    public virtual void SetAttribute(String name, String? value)
+    public virtual void SetAttribute(String name, String? value = null)
     {
         var attribute = GetAttribute(name);
 
